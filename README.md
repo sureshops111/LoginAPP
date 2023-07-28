@@ -1,1 +1,1 @@
-# Git pull commad example
+Peroming git push event
